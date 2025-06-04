@@ -1,4 +1,4 @@
-### ✨ **Adil Shamim**
+### **Adil Shamim**
 
 <p align="center">
   <a href="https://github.com/AdilShamim8">
@@ -6,10 +6,6 @@
   </a>
 </p>
 
-<p align="center">
-  <em>“Design is not just what it looks like and feels like. Design is how it works.”</em><br/>
-  — <strong>Steve Jobs</strong>
-</p>
 
 ```bash
 echo "Code is there for humans, not computers, to understand.";
